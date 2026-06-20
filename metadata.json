@@ -1,0 +1,6 @@
+{
+  "name": "Dangata FX",
+  "description": "A high-performance financial analytics and dashboard application for tracking market performance, sales, portfolio assets, and transactional metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
